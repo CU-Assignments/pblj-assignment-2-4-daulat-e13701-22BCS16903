@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vUuzEwA3)
 # -PBLJ-ASSIGNMENT-2.4-DAULAT-E13701
 Create Java applications with JDBC for database connectivity, CRUD operations, and MVC architecture.
 a. Create a Java program to connect to a MySQL database and fetch data from a single table. The program should:
